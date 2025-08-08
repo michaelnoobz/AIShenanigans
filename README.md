@@ -29,18 +29,4 @@
   <li>Deeper understanding of model loading, resources, and performance tuning</li>
 </ul>
 
-<h2>🖼️ Screenshots</h2>
 
-<h3>Web UI Running Locally</h3>
-<img src="web-ui-screenshot.png" alt="Web UI Screenshot" width="600"/>
-
-<h3>Gemma 12B Loaded and Running</h3>
-<img src="gemma-12b-screenshot.png" alt="Gemma 12B Screenshot" width="600"/>
-
-<hr/>
-
-<h2>🔗 Connect With Me</h2>
-<ul>
-  <li><a href="https://www.linkedin.com/in/michael-lannen-053588167" target="_blank">LinkedIn – Michael Lannen</a></li>
-  <li><a href="https://github.com/michaelnoobz" target="_blank">GitHub – michaelnoobz</a></li>
-</ul>
